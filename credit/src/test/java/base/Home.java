@@ -2,7 +2,7 @@ package base;
 
 public class Home {
 	void A() {
-		System.out.println(12);
+		System.out.println(120);
 	}
 
 }
